@@ -1,0 +1,9 @@
+[0m[[0mdebug[0m] [0mCopy resource mappings: [0m
+[0m[[0mdebug[0m] [0m	(/home/spark_MLlib/classification/naivebayes/src/main/resources/data,/home/spark_MLlib/classification/naivebayes/target/scala-2.11/classes/data)[0m
+[0m[[0mdebug[0m] [0m	(/home/spark_MLlib/classification/naivebayes/src/main/resources/data/english_stops_words.txt~,/home/spark_MLlib/classification/naivebayes/target/scala-2.11/classes/data/english_stops_words.txt~)[0m
+[0m[[0mdebug[0m] [0m	(/home/spark_MLlib/classification/naivebayes/src/main/resources/data/english_stops_words.txt,/home/spark_MLlib/classification/naivebayes/target/scala-2.11/classes/data/english_stops_words.txt)[0m
+[0m[[0mdebug[0m] [0m	(/home/spark_MLlib/classification/naivebayes/src/main/resources/data/rt-polaritydata,/home/spark_MLlib/classification/naivebayes/target/scala-2.11/classes/data/rt-polaritydata)[0m
+[0m[[0mdebug[0m] [0m	(/home/spark_MLlib/classification/naivebayes/src/main/resources/data/rt-polaritydata/rt-polarity.pos~,/home/spark_MLlib/classification/naivebayes/target/scala-2.11/classes/data/rt-polaritydata/rt-polarity.pos~)[0m
+[0m[[0mdebug[0m] [0m	(/home/spark_MLlib/classification/naivebayes/src/main/resources/data/rt-polaritydata/rt-polarity.neg,/home/spark_MLlib/classification/naivebayes/target/scala-2.11/classes/data/rt-polaritydata/rt-polarity.neg)[0m
+[0m[[0mdebug[0m] [0m	(/home/spark_MLlib/classification/naivebayes/src/main/resources/data/rt-polaritydata/rt-polarity.pos,/home/spark_MLlib/classification/naivebayes/target/scala-2.11/classes/data/rt-polaritydata/rt-polarity.pos)[0m
+[0m[[0mdebug[0m] [0m	(/home/spark_MLlib/classification/naivebayes/src/main/resources/data/rt-polaritydata/rt-polarity.neg~,/home/spark_MLlib/classification/naivebayes/target/scala-2.11/classes/data/rt-polaritydata/rt-polarity.neg~)[0m
